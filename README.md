@@ -5,6 +5,6 @@ A web application for tracking library visits with secure Google authentication 
 * [NEU LIBRARY VISITOR LOG](https://neu-libraryvisitorlog.page.gd/)
 
 
-ADMIN USER - 2000001
+**ADMIN USER** - 2000001
 
-ADMIN PASS - jerry123
+**ADMIN PASS** - jerry123
