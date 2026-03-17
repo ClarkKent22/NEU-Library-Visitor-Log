@@ -10,6 +10,4 @@ A web application for tracking library visits with secure Google authentication 
 
 **ADMIN PASS** - jerry123
 
-**EMAIL USER ** - jcesperanza@neu.edu.ph
 
-**EMAIL PASS** - jerr123
